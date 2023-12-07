@@ -2,4 +2,5 @@
 void main()
 {
     printf("welcome gamer");
+    printf("\nhow are you?");
 }
